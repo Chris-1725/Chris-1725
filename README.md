@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Christopher👋
 
 # 💫 About Me:
 Currently a Junior at NJIT studying Computer Science with a minor in UX Design, I’m passionate about turning ideas into interactive, human‑friendly software. My work bridges the gap between functionality and beauty — from designing seamless interfaces to optimizing performance under the hood — all with the goal of creating experiences people love to use.
